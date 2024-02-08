@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DS401 Arts Blog",
+    "section": "",
+    "text": "Harun’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nHarun\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nHarun Celik\n\n\n\n\n\n\n  \n\n\n\n\nJeep’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nJeep\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nJeep Eaty\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Introductions/Introduction.html",
+    "href": "posts/Introductions/Introduction.html",
+    "title": "Harun’s Introduction",
+    "section": "",
+    "text": "I’m Harun, a PhD student in History. I want to be involved in this project because while I think that aesthetic is a subjective choice, everyone benefits from taking part in art and I want to explain this through the use of data."
+  },
+  {
+    "objectID": "posts/Introductions/Harun_Introduction.html",
+    "href": "posts/Introductions/Harun_Introduction.html",
+    "title": "Harun’s Introduction",
+    "section": "",
+    "text": "I’m Harun, a PhD student in History and here is why I want to be involved in this project.\nWhile I think that art and aesthetics are a subjective choice, art is a shared human experience and everyone benefits from taking part in this human activity. I hope to further understand and share this idea through the use of data analytics.\nHere is a rendition of a scene from Pulp Fiction in the Ottoman miniature art style.\n\n\n\nPulp Fiction as an Ottoman Miniature"
+  },
+  {
+    "objectID": "posts/Introductions/Chris/Jeep_Introduction.html",
+    "href": "posts/Introductions/Chris/Jeep_Introduction.html",
+    "title": "Jeep’s Introduction",
+    "section": "",
+    "text": "Hello,\nI’m Jeep Eaty, an artist driven by a deep passion for creative expression. With a background in [mention relevant experience or education], I bring a diverse set of skills and a unique perspective to the table. I am genuinely excited about the opportunity to collaborate on your art project, as I thrive in collaborative environments where ideas flow freely and collective creativity flourishes. My commitment to pushing artistic boundaries and exploring new avenues of expression aligns perfectly with the vision of your project, and I am eager to contribute my talents to its realization. Thank you for considering me as a potential collaborator—I look forward to the possibility of working together.\nBest regards, Jeep\nHere’s my attempt at drawing a smiley face.\n\n# Create a blank plot\nplot(1, type=\"n\", xlim=c(0,10), ylim=c(0,10), axes=FALSE, xlab=\"\", ylab=\"\", main=\"Smiley Face\")\n\n# Draw the face (circle)\nsymbols(5, 5, circles=5, add=TRUE, inches=0.5)\n\n# Draw the eyes (circles)\nsymbols(3.5, 6, circles=0.5, inches=0.2, add=TRUE)\nsymbols(6.5, 6, circles=0.5, inches=0.2, add=TRUE)\n\n# Draw the mouth (arc)\ncurve(5 + 1.5 * sin(x), from=pi/6, to=5*pi/6, add=TRUE, col=\"black\", lwd=2)"
+  },
+  {
+    "objectID": "posts/Introductions/Harun/Harun_Introduction.html",
+    "href": "posts/Introductions/Harun/Harun_Introduction.html",
+    "title": "Harun’s Introduction",
+    "section": "",
+    "text": "I’m Harun, a PhD student in History and here is why I want to be involved in this project.\nWhile I think that art and aesthetics are a subjective choice, art is a shared human experience and everyone benefits from taking part in this human activity. I hope to further understand and share this idea through the use of data analytics.\nHere is a rendition of a scene from Pulp Fiction in the Ottoman miniature art style.\n\n\n\nPulp Fiction as an Ottoman Miniature"
+  },
+  {
+    "objectID": "posts/Introductions/Jeep/Jeep_Introduction.html",
+    "href": "posts/Introductions/Jeep/Jeep_Introduction.html",
+    "title": "Jeep’s Introduction",
+    "section": "",
+    "text": "I’m Jeep Eaty, an artist driven by a deep passion for creative expression.\nWith a background in [mention relevant experience or education], I bring a diverse set of skills and a unique perspective to the table. I am genuinely excited about the opportunity to collaborate on your art project, as I thrive in collaborative environments where ideas flow freely and collective creativity flourishes. My commitment to pushing artistic boundaries and exploring new avenues of expression aligns perfectly with the vision of your project, and I am eager to contribute my talents to its realization. Thank you for considering me as a potential collaborator—I look forward to the possibility of working together.\nBest regards, Jeep\nHere’s my attempt at drawing a smiley face.\n\n# Create a blank plot\nplot(1, type=\"n\", xlim=c(0,10), ylim=c(0,10), axes=FALSE, xlab=\"\", ylab=\"\", main=\"Smiley Face\")\n\n# Draw the face (circle)\nsymbols(5, 5, circles=5, add=TRUE, inches=0.5)\n\n# Draw the eyes (circles)\nsymbols(3.5, 6, circles=0.5, inches=0.2, add=TRUE)\nsymbols(6.5, 6, circles=0.5, inches=0.2, add=TRUE)\n\n# Draw the mouth (arc)\ncurve(5 + 1.5 * sin(x), from=pi/6, to=5*pi/6, add=TRUE, col=\"black\", lwd=2)"
+  }
+]

@@ -1,0 +1,14 @@
+---
+title: "Harun's Introduction"
+author: "Harun Celik"
+date: "2024-02-05"
+categories: [Introduction, Harun]
+---
+
+I'm Harun, a PhD student in History and here is why I want to be involved in this project.
+
+While I think that art and aesthetics are a subjective choice, art is a shared human experience and everyone benefits from taking part in this human activity. I hope to further understand and share this idea through the use of data analytics.
+
+Here is a rendition of a scene from Pulp Fiction in the Ottoman miniature art style.
+
+![Pulp Fiction as an Ottoman Miniature](imgs/NotPulpFiction.jpg)

@@ -1,0 +1,30 @@
+---
+title: "Jeep's Introduction"
+author: "Jeep Eaty"
+date: "2024-02-05"
+categories: [Introduction, Jeep]
+---
+
+I'm Jeep Eaty, an artist driven by a deep passion for creative expression.
+
+With a background in \[mention relevant experience or education\], I bring a diverse set of skills and a unique perspective to the table. I am genuinely excited about the opportunity to collaborate on your art project, as I thrive in collaborative environments where ideas flow freely and collective creativity flourishes. My commitment to pushing artistic boundaries and exploring new avenues of expression aligns perfectly with the vision of your project, and I am eager to contribute my talents to its realization. Thank you for considering me as a potential collaborator---I look forward to the possibility of working together.
+
+Best regards, Jeep
+
+Here's my attempt at drawing a smiley face.
+
+```{r}
+# Create a blank plot
+plot(1, type="n", xlim=c(0,10), ylim=c(0,10), axes=FALSE, xlab="", ylab="", main="Smiley Face")
+
+# Draw the face (circle)
+symbols(5, 5, circles=5, add=TRUE, inches=0.5)
+
+# Draw the eyes (circles)
+symbols(3.5, 6, circles=0.5, inches=0.2, add=TRUE)
+symbols(6.5, 6, circles=0.5, inches=0.2, add=TRUE)
+
+# Draw the mouth (arc)
+curve(5 + 1.5 * sin(x), from=pi/6, to=5*pi/6, add=TRUE, col="black", lwd=2)
+
+```
