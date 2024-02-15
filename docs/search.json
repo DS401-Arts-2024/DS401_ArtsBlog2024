@@ -11,7 +11,14 @@
     "href": "index.html",
     "title": "DS401 Arts Blog",
     "section": "",
-    "text": "Harun’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nHarun\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nHarun Celik\n\n\n\n\n\n\n  \n\n\n\n\nJeep’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nJeep\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nJeep Eaty\n\n\n\n\n\n\nNo matching items"
+    "text": "Blake’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nBlake\n\n\n\n\n\n\n\n\n\n\n\nFeb 9, 2024\n\n\nBlake Underwood\n\n\n\n\n\n\n  \n\n\n\n\nHarun’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nHarun\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nHarun Celik\n\n\n\n\n\n\n  \n\n\n\n\nJeep’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nJeep\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nJeep Eaty\n\n\n\n\n\n\n  \n\n\n\n\nMontgomery’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nMontgomery\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nMontgomery Inman\n\n\n\n\n\n\n  \n\n\n\n\nTaran’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\nTaran\n\n\n\n\n\n\n\n\n\n\n\nFeb 5, 2024\n\n\nTaran Panduranga\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Introductions/Blake/NAME_Introduction.html",
+    "href": "posts/Introductions/Blake/NAME_Introduction.html",
+    "title": "Blake’s Introduction",
+    "section": "",
+    "text": "I believe the most important part of any society is how people treat each other; our relationships and our complex web of interactions are the foundation of our communities. It’s easy to overlook this nowadays, because we are connected less in person and more digitally which is of course less personal.\nQuantifying the depth and significance of these relationships is challenging. While economic indicators like GDP and the Gini index provide a numerical snapshot of society, they fall short in capturing the nuances of human connection.\nAs Americans, we’re steeped in a capitalistic worldview, which understandably influences our perception of the world. While economic success is important, reducing society to mere numbers overlooks the richness of human experience. This obsession with quantification has led to unprecedented economic growth but has also left us yearning for a deeper understanding of our collective well-being.\nI want to do this project because I would rather gain insights into a communities overall picture of well-being/quality of life, then to just get economic rankings which has been done plenty by many.\nOne of my favorite works of art is the the flatiron, honestly I don’t exactly why I like it except that it really just seems like the flatiron building is in perfect positioning. \nI use to dabble in photography."
   },
   {
     "objectID": "posts/Introductions/Harun/Harun_Introduction.html",
@@ -26,5 +33,19 @@
     "title": "Jeep’s Introduction",
     "section": "",
     "text": "I’m Jeep Eaty, an artist driven by a deep passion for creative expression.\nWith a background in [mention relevant experience or education], I bring a diverse set of skills and a unique perspective to the table. I am genuinely excited about the opportunity to collaborate on your art project, as I thrive in collaborative environments where ideas flow freely and collective creativity flourishes. My commitment to pushing artistic boundaries and exploring new avenues of expression aligns perfectly with the vision of your project, and I am eager to contribute my talents to its realization. Thank you for considering me as a potential collaborator—I look forward to the possibility of working together.\nBest regards, Jeep\nHere’s my attempt at drawing a smiley face.\n\n# Create a blank plot\nplot(1, type=\"n\", xlim=c(0,10), ylim=c(0,10), axes=FALSE, xlab=\"\", ylab=\"\", main=\"Smiley Face\")\n\n# Draw the face (circle)\nsymbols(5, 5, circles=5, add=TRUE, inches=0.5)\n\n# Draw the eyes (circles)\nsymbols(3.5, 6, circles=0.5, inches=0.2, add=TRUE)\nsymbols(6.5, 6, circles=0.5, inches=0.2, add=TRUE)\n\n# Draw the mouth (arc)\ncurve(5 + 1.5 * sin(x), from=pi/6, to=5*pi/6, add=TRUE, col=\"black\", lwd=2)"
+  },
+  {
+    "objectID": "posts/Introductions/Montgomery/Montgomery_Introduction.html",
+    "href": "posts/Introductions/Montgomery/Montgomery_Introduction.html",
+    "title": "Montgomery’s Introduction",
+    "section": "",
+    "text": "Hello! My name is Montgomery Inman and I am a senior majoring in Data Science at Iowa State University. I am excited to work on this project as I believe art is an immensely, important aspect of life itself! Art has the unique compacity to amplify voices, evoke immense emotion, and even spark change.\nFurther, art is a powerful connector, bridging together communities, history, individuals, places, and even sports! As a passionate sports fan one, of my favorite accounts to follow on X (Twitter) is @ArtButSports. This account takes iconic sports images and compares them to historical artwork (wihout AI!! I believe its just one guy that really likes sports and really likes art). One of my favorite recent posts was this comparison of Iowa State legend Tyrese Haliburton’s outfit walking into his NBA game to an art piece by Kazimir Malevich!\n\n\n\nTyrese Haliburton @ArtButSports"
+  },
+  {
+    "objectID": "posts/Introductions/Taran/Taran_Introduction.html",
+    "href": "posts/Introductions/Taran/Taran_Introduction.html",
+    "title": "Taran’s Introduction",
+    "section": "",
+    "text": "My name is Taran, and I am a senior majoring in Data Science, and I am excited to delve into this project.\nAt first, the combination of art and data analysis seems to present a juxtaposition, and it would seem contradictory to examine how a community’s interaction with art can be objectified using data analysis. However, we are able to pick up certain objective observations when examining how a community interacts with its environment. For example, there are certain patterns when looking at how well a community obeys its laws, or when examining a community’s interaction in terms of culture and religion. I believe that a community’s interaction with art is no different, where there will be certain patterns based on how the community is interacting with its art, which is something that I believe data analysis will help us determine."
   }
 ]

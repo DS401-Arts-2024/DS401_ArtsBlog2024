@@ -1,0 +1,12 @@
+---
+title: "Montgomery's Introduction"
+author: "Montgomery Inman"
+date: "2024-02-05"
+categories: [Introduction, Montgomery]
+---
+
+Hello! My name is Montgomery Inman and I am a senior majoring in Data Science at Iowa State University. I am excited to work on this project as I believe art is an immensely, important aspect of life itself! Art has the unique compacity to amplify voices, evoke immense emotion, and even spark change.
+
+Further, art is a powerful connector, bridging together communities, history, individuals, places, and even sports! As a passionate sports fan one, of my favorite accounts to follow on X (Twitter) is @ArtButSports. This account takes iconic sports images and compares them to historical artwork (wihout AI!! I believe its just one guy that really likes sports and really likes art). One of my favorite recent posts was this comparison of Iowa State legend Tyrese Haliburton's outfit walking into his NBA game to an art piece by Kazimir Malevich!
+
+![Tyrese Haliburton @ArtButSports](imgs/haliburtonArt.JPG)

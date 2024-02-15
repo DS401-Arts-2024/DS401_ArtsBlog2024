@@ -1,0 +1,10 @@
+---
+title: "Taran's Introduction"
+author: "Taran Panduranga"
+date: "2024-02-05"
+categories: [Introduction, Taran]
+---
+
+My name is Taran, and I am a senior majoring in Data Science, and I am excited to delve into this project.
+
+At first, the combination of art and data analysis seems to present a juxtaposition, and it would seem contradictory to examine how a community's interaction with art can be objectified using data analysis. However, we are able to pick up certain objective observations when examining how a community interacts with its environment. For example, there are certain patterns when looking at how well a community obeys its laws, or when examining a community's interaction in terms of culture and religion. I believe that a community's interaction with art is no different, where there will be certain patterns based on how the community is interacting with its art, which is something that I believe data analysis will help us determine.
